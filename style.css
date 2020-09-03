@@ -1,0 +1,34 @@
+body {
+  font-family: "Montserrat", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  text-align: center;
+}
+
+.top-image{
+  text-align: center;
+}
+.top-image img{
+  max-width: 600px;
+}
+
+.space{
+  width: 60%;
+  margin-left: 20%;
+  font-size: 110%;
+}
+
+.block{
+  display: inline-block;
+  width: 250px;
+  height: 340px;
+  margin-top: 20px;
+  background:#CCCCCC;
+}
+
+.hokkaido{
+  padding-top: 0px;
+}
+
+.tohoku{
+}
+.kanto{
+}

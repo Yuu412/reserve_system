@@ -1,0 +1,60 @@
+body {
+  font-family: "Montserrat", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  text-align: center;
+  margin-left: 25%;
+}
+h1{
+  margin: 100 10% 100 0;
+}
+
+.width{
+  max-width: 80%;
+}
+
+.hotel{
+  width: 700px;
+  height: 200px;
+  background-color: #EEEEEE;
+  margin-bottom: 10px;
+}
+.pic{
+  margin-left: -530px;
+}
+.pic img{
+  width: 170px;
+  height:200px;
+  max-width: 180px;
+  max-height:210px;
+}
+.name{
+ font-size: 200%;
+  float: right;
+  width: 530px;
+  height: 50px;
+  margin-top: -200px;
+  background-color: #CCCCCC;
+}
+.reserve{
+  position: absolute;
+  text-align: left;
+  width: 400px;
+  padding-left: 120px;
+  margin-left: 80px;
+  margin-top: -150px;
+}
+.money{
+  font-size: 150%;
+  width: 250px;
+  height: 40px;
+  margin-top: -40px;
+  margin-left: 450px;
+  background-color: #EEEEEE;
+}
+.botton{
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.input0{
+  width: 50px;
+}
